@@ -1,0 +1,1 @@
+export const MAP_API_KEY = 'AIzaSyBRqZj0kxXop7F9ox7je3eIvbZ6gBS9o0U';
